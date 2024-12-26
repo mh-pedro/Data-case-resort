@@ -76,11 +76,3 @@ Durante o projeto, realizamos etapas importantes para preparar os dados para an�
    - Reavaliar a faixa de preços e introduzir diferenciação clara entre as categorias de quartos.
 
 ---
-
-## 📂 Estrutura do Projeto
-
-- `notebooks/`: Contém os notebooks de análise e visualização.
-- `data/`: Arquivos de dados brutos e pré-processados.
-- `plots/`: Imagens geradas a partir das análises.
-- `README.md`: Documento explicativo do projeto.
-
